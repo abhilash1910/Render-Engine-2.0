@@ -1,0 +1,51 @@
+﻿  light_engine.cpp
+c:\users\user\source\repos\engine\engine\render_engine.h(221): warning C4244: 'argument': conversion from 'float' to 'GLsizeiptr', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(224): warning C4244: 'argument': conversion from 'float' to 'GLsizeiptr', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(251): warning C4244: 'argument': conversion from 'float' to 'GLsizeiptr', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(551): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(621): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(622): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(650): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(688): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(689): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(692): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(693): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(694): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(695): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(734): warning C4244: '-=': conversion from 'const double' to 'float', possible loss of data
+  render_engine.cpp
+c:\users\user\source\repos\engine\engine\render_engine.h(221): warning C4244: 'argument': conversion from 'float' to 'GLsizeiptr', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(224): warning C4244: 'argument': conversion from 'float' to 'GLsizeiptr', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(251): warning C4244: 'argument': conversion from 'float' to 'GLsizeiptr', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(551): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(621): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(622): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(650): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(688): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(689): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(692): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(693): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(694): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(695): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(734): warning C4244: '-=': conversion from 'const double' to 'float', possible loss of data
+  Source_code.cpp
+c:\users\user\source\repos\engine\engine\render_engine.h(221): warning C4244: 'argument': conversion from 'float' to 'GLsizeiptr', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(224): warning C4244: 'argument': conversion from 'float' to 'GLsizeiptr', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(251): warning C4244: 'argument': conversion from 'float' to 'GLsizeiptr', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(551): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(621): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(622): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(650): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(688): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(689): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(692): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(693): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(694): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(695): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+c:\users\user\source\repos\engine\engine\render_engine.h(734): warning C4244: '-=': conversion from 'const double' to 'float', possible loss of data
+c:\users\user\source\repos\engine\engine\source_code.cpp(192): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\User\source\repos\engine\Debug\vc120.pdb'; linking object as if no debug info
+  engine.vcxproj -> C:\Users\User\source\repos\engine\Debug\engine.exe
